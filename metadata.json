@@ -1,0 +1,6 @@
+{
+  "name": "SACE Workforce Hub",
+  "description": "Internal workforce portal for managing employees, attendance, assigned work, leave, leads, messages, support tickets, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
